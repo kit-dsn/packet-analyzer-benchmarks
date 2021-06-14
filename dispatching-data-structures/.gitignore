@@ -1,0 +1,23 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+cmake-build-debug*
+cmake-build-release*
+build
+
+# OWN
+input/*
+!input/traces
+input/traces/*
+!input/traces/cic-ids17-mon
+!input/traces/cic-ids17-mon-full
+!input/analyzers/
+input/analyzers/*
+
+Generated*.h
+Generated*.cpp
+__pycache__/
+
+results
