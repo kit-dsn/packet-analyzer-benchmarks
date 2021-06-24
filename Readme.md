@@ -1,6 +1,6 @@
 # Performance Evaluation
 
-This directory contains the experiments conducted in the context of the work on "Advancing Protocol Diversity in Network Security Monitoring". The experiments are described in section 5 of the paper. To reproduce the results, follow the corresponding instructions.
+This directory contains the experiments conducted in the context of the work on ["Advancing Protocol Diversity in Network Security Monitoring"](https://arxiv.org/abs/2106.12454). The experiments are described in section 5 of the paper. To reproduce the results, follow the corresponding instructions.
 
 
 ## Dispatching Data Structures  (5.1)
